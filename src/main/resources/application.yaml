@@ -1,0 +1,7 @@
+logging:
+  level:
+    #web: DEBUG
+    org.vincedgy.redis: DEBUG
+    #io.lettuce: DEBUG
+
+debug: false
